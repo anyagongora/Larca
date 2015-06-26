@@ -1,0 +1,13 @@
+{
+  "name": "larca-enviro",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "flexboxgrid": "~6.2.0",
+    "slick.js": "~1.5.5"
+  },
+  "devDependencies": {
+    "chai": "~3.0.0",
+    "mocha": "~2.2.5"
+  }
+}
